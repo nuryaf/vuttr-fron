@@ -1,0 +1,62 @@
+.new-tool-modal {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    height: 450px;
+}
+
+.new-tool-modal input {
+    height: 30px;
+    margin-bottom: 10px;
+    outline-color: #c2c1c5;;
+}
+
+.new-tool-modal label {
+    font-size: 1.25em;
+}
+
+.new-tool-modal button {
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    cursor: pointer;
+    padding: 10px;
+    transition: 0.2s;
+}
+
+.new-tool-modal button:hover {
+    background: #c2c1c5;}
+
+.new-tool-modal__div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.new-tool-modal__header button {
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    cursor: pointer;
+    padding: 10px;
+    color: #FFFFFF;
+    transition: 0.2s;
+}
+.new-tool-modal__close-button {
+    background: #B1ADB9;
+}
+
+.new-tool-modal__add-button {
+    width: 150px;
+    align-self: flex-end;
+    margin-left: 20px;
+    margin-top: 10px;
+    background: #B1ADB9;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.new-tool-modal__add-button:hover {
+    background: #c2c1c5;
+}
