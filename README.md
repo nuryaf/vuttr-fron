@@ -4,7 +4,6 @@
 - ReactJs
 - Javascript
 - Axios
-- ✨Magic ✨
 
 ## Execução
 > **Dica**: Para verificar o código de forma dinâmica, basta clicar na tecla ``.`` quando repositório do github estiver aberto em seu navegador ;)
