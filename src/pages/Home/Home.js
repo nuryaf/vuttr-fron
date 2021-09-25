@@ -50,7 +50,6 @@ const Home = () => {
                 handleSearch(search, checkbox);
                 handleToggleAddTool();
             })
-        console.log(tool)
     }
 
     return (

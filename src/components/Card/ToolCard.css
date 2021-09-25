@@ -16,12 +16,13 @@
 .card__title {
     font-size: 1.5em;
     cursor: pointer;
+    margin-bottom: 15px;
 }
 
 .card__tag {
     display: inline-flex;
     margin-right: 10px;
-    color: crimson;
+    color: red;
 }
 
 .card__button {
